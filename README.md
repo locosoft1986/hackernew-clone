@@ -2,6 +2,7 @@
 
 This is a simple example of a hackernews clone based on
 
+* React
 * Redux
 * Loopback
 * react-seed
@@ -34,3 +35,7 @@ backend:
 - dont screw the user and topic relation
 - calculate the points in backend + liked / not liked
 - more tests for bulletproof ACL
+
+## licence
+
+MIT
